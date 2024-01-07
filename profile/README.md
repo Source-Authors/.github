@@ -1,3 +1,3 @@
 ## Source Authors
 
-We a small team of Source 1 modders.
+We are a small team of Source 1 modders.
