@@ -26,7 +26,7 @@
 
 #### 🛡️ Help us making this Community safe.
 
-<sub>Obsoletium GitHub organization follows the [Obsoletium's Code of Conduct](https://github.com/Source-Authors/Obsoletium/blob/HEAD/docs/CODE_OF_CONDUCT.md). Please abide by these Codes of Conduct when interacting with all repositories under the Obsoletium umbrella and when interacting with people.</sub>
+<sub>Obsoletium GitHub organization follows the [Obsoletium's Code of Conduct](https://github.com/Source-Authors/Obsoletium/blob/HEAD/docs/contributing/CODE_OF_CONDUCT.md). Please abide by these Codes of Conduct when interacting with all repositories under the Obsoletium umbrella and when interacting with people.</sub>
 
 #### 🚨 Reporting Security Incidents.
 
