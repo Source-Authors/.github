@@ -22,7 +22,7 @@
 
 #### 👐 Contributing to Obsoletium.
 
-<sub>Obsoletium is an open-source project, and it's always looking for new contributions. From documentation, translation, contributing to our infrastructure or reporting a bug; any contribution is valued and welcome.</sub>
+<sub>Obsoletium is an open-source project, and it's always looking for new [contributions](https://github.com/Source-Authors/Obsoletium/blob/HEAD/CONTRIBUTING.md). From documentation, translation, contributing to our infrastructure or reporting a bug; any contribution is valued and welcome.</sub>
 
 #### 🛡️ Help us making this Community safe.
 
